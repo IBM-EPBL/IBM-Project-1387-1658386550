@@ -1,0 +1,12 @@
+personal-expense-tracker 
+
+npm packages
+react-router
+react-router-dom
+react-chartjs-2
+chart.js/auto
+sweetalert
+@speechly/react-ui
+@speechly/react-client
+@mui/material
+@mui/icons-material

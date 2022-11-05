@@ -1,0 +1,47 @@
+.register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.registerForm {
+    background-color: rgb(244 228 140);
+    padding: 0px 60px;
+    border-radius: 10px;
+}
+
+.registerTitle {
+    color: rgb(139 120 2);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.registerBtn {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(139 120 2);
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.registerBtn:hover {
+    background-color: rgb(246 235 172);
+    color: rgb(139 120 2);
+    border: 2px solid rgb(139 120 2);
+}
+
+.loginLink {
+    text-decoration: none;
+    margin-left: 5px;
+    color: rgb(72 62 1);
+    font-weight: 500;
+}
