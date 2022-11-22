@@ -1,0 +1,19 @@
+.cardHeader {
+    text-align: center;
+    border: 2px solid rgb(144 122 0);
+    color: rgb(144 122 0);
+    border-radius: 5px;
+    background-color: white;
+}
+
+.cardContent1 {
+    border: 2px solid rgb(144 122 0);
+    border-radius: 5px;
+    background-color: white;
+}
+
+.cardContent2 {
+    border: 2px solid rgb(144 122 0);
+    border-radius: 5px;
+    background-color: white;
+}

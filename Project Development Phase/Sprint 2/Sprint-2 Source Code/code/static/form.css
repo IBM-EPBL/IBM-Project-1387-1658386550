@@ -1,0 +1,13 @@
+.createBtn {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 16px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 15px;
+    border: 2px solid rgb(111 95 0);
+    background-color: rgb(231 229 175);
+    cursor: pointer;
+    color: rgb(111 95 0);
+    font-weight: 600;
+}

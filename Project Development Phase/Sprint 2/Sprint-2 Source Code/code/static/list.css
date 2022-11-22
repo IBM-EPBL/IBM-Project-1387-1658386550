@@ -1,0 +1,15 @@
+.avatarIncome {
+    color: #fff;
+    background-color: green;
+}
+
+.avatarExpense {
+    color: #fff;
+    background-color: red;
+}
+
+.listContainer {
+    max-height: 240px;
+    overflow: auto;
+}
+
