@@ -1,0 +1,75 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    background-color: white;
+    border: 3px solid darkgoldenrod;
+    border-radius: 5px;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.navTitle {
+    font-size: 30px;
+    margin-left: 15%;
+    text-align: center;
+    color: rgb(187, 134, 0);
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.navSubTitle {
+    letter-spacing: normal;
+    font-size: 20px;
+    color: grey;
+    margin-left: 75px;
+}
+
+.navBtn {
+    height: 70%;
+    margin-right: 220px;
+    background-color: rgb(228, 227, 194);
+    border-radius: 5px;
+    border: 2px solid rgb(111, 95, 0);
+    font-weight: 600;
+    color: rgb(194, 128, 6);
+    padding: 10px 20px;
+    cursor: pointer;
+}
+/*
+
+.navContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.navItems {
+    display: flex;
+    flex-direction: row;
+}
+
+.logoutBtn, .profileBtn {
+    border-radius: 10px;
+    padding: 0px 20px 0px 20px;
+    border: 2px solid rgb(111 95 0);
+    background-color: rgb(231 229 175);
+    cursor: pointer;
+    color: rgb(111 95 0);
+    font-weight: 600;
+}
+
+.navHeader {
+    text-align: left;
+    border: 2px solid rgb(144 122 0);
+    color: rgb(144 122 0);
+    border-radius: 5px;
+    background-color: white;
+    width: 100%;
+}
+
+.navTitle {
+
+} */
